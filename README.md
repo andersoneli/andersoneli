@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Eli Anderson and I am a recent graduate of the University of Iowa Tippie College of Business. I have my bachelors in Business Analytics and Management. Upon graduation I am working for Caterpillar Inc. in Peoria IL. as a revenue analyst. Here you can find some of my past work and class projects. Check it out!
 
 <!--
 **andersoneli/andersoneli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
